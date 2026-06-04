@@ -1,0 +1,6 @@
+{
+  "name": "LSEG",
+  "description": "LSEG Green Economy, an authorized financial platform specializing in global green energy economic opportunities, C2C, copy trading, and contract trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
